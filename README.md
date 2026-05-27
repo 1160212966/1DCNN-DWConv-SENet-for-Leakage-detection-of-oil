@@ -1,3 +1,3 @@
 # 1DCNN-DWConv-SENet-for-Leakage-detection-of-oil
 This is only an undergraduate graduation project created by a beginner in the field of artificial intelligence. I’m sorry, but this dataset is confidential and cannot be made public, so the code for this project is provided for reference only (though, admittedly, there is probably not much worth referencing).
-If you are a student from the Artificial Intelligence major at NEPU, please convey my gratitude to Professor Zhou on my behalf. She is a very responsible teacher, although I do not think this project will ever be used again.And pls proceed to the Chinese documentation.
+If you are a student from the Artificial Intelligence major at NEPU, please convey my gratitude to Dr. Zhou on my behalf. She is a very responsible teacher, although I do not think this project will ever be used again.And pls proceed to the Chinese documentation.
